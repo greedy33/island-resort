@@ -1,0 +1,28 @@
+h1{
+  color: #17a2b7;
+  text-align: center;
+}
+
+body{
+  background-color: #304972;
+  color: #acabba;
+}
+
+h2{
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+}
+a {
+  color: #a147a5;
+}
+a:hover {
+    color: hotpink;
+}
+
+
+img {
+    display: block;
+    margin: auto;
+    width: 40%;
+}
